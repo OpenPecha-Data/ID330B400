@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS19153
   title: རྩོམ་གྱི་འབྲས་བུ་ཐོགས་པའི་མེ་ཏོག་ཚལ། སློབ་བུར་འཚམ་པའི་རྩོམ་དཔེ།
-  volume: ''
+  volume:
+    102ab3a932f74495844e9d73ffa41e30:
+      image_group_id: I8LS19155
+      title: Volume 1 of rtsom gyi 'bras bu thogs pa'i me tog tshal/
+      volume_number: 1
+      total_pages: 132
   author: ''
+ebook_metadata:
+  title: རྩོམ་གྱི་འབྲས་བུ་ཐོགས་པའི་མེ་ཏོག་ཚལ། སློབ་བུར་འཚམ་པའི་རྩོམ་དཔེ།
+  author: ''
+  sku: P007852
+  cover: cover.jpg
+  layers:
+  - pagination
